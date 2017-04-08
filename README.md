@@ -8,11 +8,11 @@
 
 02-linear-regression
 
-* 선형회귀
+* tensorflow로 선형회귀 구현
 
 03-classificfation
 
-* 분류
+* tensorflow로 분류법 구현
 
 04-neural-network
 
