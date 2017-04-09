@@ -3,7 +3,7 @@
 모두를 위한 딥러닝을 수강하면서 나왔던 강의 예제 목록
 
 01-tensorflow-basic
-    
+
 * tensoflow 기본 사용법
 
 02-linear-regression
@@ -16,7 +16,13 @@
 
 04-neural-network
 
-* Neural Network
+* 로지스틱 회귀로는 풀 수 없는 XOR 문제를 살펴보고
+
+* 여러개의 레이어를 사용하는 뉴럴 네트워크를 이용해서 풀어본다.
+
+* 네트워크를 다양한 구조로 구성하여 정확도를 높힌다.
+
+* \+ 텐서보드 사용법을 익혀 시각화 한다.
 
 05-deep-learning-mnist
 
